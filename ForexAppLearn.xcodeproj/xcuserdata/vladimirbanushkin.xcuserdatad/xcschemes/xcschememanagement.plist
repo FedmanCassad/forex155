@@ -7,7 +7,25 @@
 		<key>ForexAppLearn.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>0</integer>
+			<integer>11</integer>
+		</dict>
+		<key>OneSignalNotificationServiceExtension.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>10</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>38621554290E7CE900695721</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>3862157D290E86A500695721</key>
+		<dict>
+			<key>primary</key>
+			<true/>
 		</dict>
 	</dict>
 </dict>
